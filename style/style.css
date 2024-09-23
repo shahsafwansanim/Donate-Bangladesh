@@ -37,9 +37,11 @@ margin-right: 50px;
     margin-top: 10px;
 }
 .card-1{
+    background-color: white;
+    box-shadow: #8e8989;
     display: flex;
     margin: 10px;
-    width:auto;
+    width:100px;
     font-weight: 700;
     
 
@@ -54,8 +56,8 @@ ul>li{
     height: 320px;
 }
 #border{
-    width: 1300px; height:50px;
-    padding: 20px; 
+    width: 1300px; 
+    padding: 0px; 
     background-origin: padding-box;
 }
 #btn-last{
