@@ -49,17 +49,17 @@ ul>li{
     margin: 2px;
     text-align: justify;
 }
-.noakhali{
+#noakhali{
     margin: 10px;
+    height: 320px;
 }
 #border{
     width: 1300px; height:50px;
-    padding: 100px 50px 50px 100px; 
-    border:1px  solid black ;
-    box-shadow: #3c3932;
+    padding: 20px; 
+    background-origin: padding-box;
 }
 #btn-last{
     background-color: rgba(180, 244, 97, 1);
-    padding-inline: 320px;
+    padding-inline: 370px;
     font-weight: bold;
 }
