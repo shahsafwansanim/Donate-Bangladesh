@@ -38,9 +38,9 @@ margin-right: 50px;
 }
 .card-1{
     background-color: white;
-    box-shadow: #8e8989;
     display: flex;
     font-weight: 700;
+    width: 100px;
     
 
 }
@@ -54,14 +54,17 @@ ul>li{
     height: 320px;
 }
 #border{
-    width: 1300px; 
-    padding: 0px; 
-    background-origin: padding-box;
+padding-right: 20px;
+ margin-left: 30px;
+ width: 1300px;
 }
 #btn-last{
     background-color: rgba(180, 244, 97, 1);
-    padding-inline: 370px;
-    font-weight: bold;
+    margin-left: 5px;
+    margin-right: 300px;
+padding-inline-start: 200px;  
+padding-inline-end: 210px;
+font-weight: bold;
 }
 .container{
     display: flex;
@@ -78,4 +81,7 @@ ul>li{
 .faq{
     margin: 20px;
     padding-bottom: 30px;
+}
+.input-items{
+    width: 700px;
 }
