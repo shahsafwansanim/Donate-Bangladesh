@@ -79,8 +79,3 @@ ul>li{
     margin: 20px;
     padding-bottom: 30px;
 }
-@media screen {
-    .nav{
-        background-color: black;
-    }
-}
