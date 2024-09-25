@@ -1,3 +1,10 @@
+.nav-style{
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    backdrop-filter: blur(20px);
+}
 #start{
     background-color: #F9F7F3;
 }
@@ -32,7 +39,7 @@ margin-right: 50px;
 
 .second{
     display: flex;
-
+padding-bottom: 30px;
     justify-content: center;
     margin-top: 10px;
 }
